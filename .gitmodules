@@ -1,6 +1,6 @@
 [submodule "rssdler"]
 	path = rssdler
-	url = ./rssdler
+	url = git://github.com/wirate/rssdler.git
 [submodule "sshdler"]
 	path = sshdler
-	url = ./sshdler/
+	url = git://github.com/wirate/sshdler.git
