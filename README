@@ -1,0 +1,10 @@
+A super project for wirate, uniting all modules in a common structure.
+
+This project will contain triggers to the individual subproject and general configuration .. stuff.. :)
+
+
+
+Developers, here's info on how to add more submodules:
+https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial
+
+I'll add some scripts later...
