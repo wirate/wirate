@@ -1,0 +1,7 @@
+This dir is intended to _only_ point out which modules are active.
+
+A set of symlinks to respective modules conf-scripts.
+
+Confs should share format and begin with some module declaration.
+
+Don't forget to add the actual confscripts to ".gitignore" so you don't accidently share secrets. Each conf dir should contain an example configurationscript.
