@@ -1,0 +1,10 @@
+Peers declarations
+
+Each peer is a directory, containing textfiles of _what_ it may support or not.
+
+Whould you want to mount a remote peer, e.g. using sshfs, 
+then create a mnt/sshfs/root/ dir and mount it there 
+(this way you can mount the host in multiple ways in paralell).
+Should you want to mount a peer, with different mount points, 
+create subdirs with a descriptive names. (root here is just an example)
+
