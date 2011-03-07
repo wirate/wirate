@@ -4,3 +4,6 @@
 [submodule "sshdler"]
 	path = sshdler
 	url = git://github.com/wirate/sshdler.git
+[submodule "archived"]
+	path = archived
+	url = git://github.com/wirate/archived.git
