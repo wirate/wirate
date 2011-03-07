@@ -1,0 +1,8 @@
+[series]
+	targetDir="/mnt/warez/series"
+	regexp="(family.guy|dexter|desperate.housewives|greys.anatomy)"
+	
+
+[mma]
+	targetDir="/mnt/torrents/new/mma"
+	regexp="(ufc|elitexc|elite.xc|ultimate.fighter)"
