@@ -1,3 +1,6 @@
 [submodule "rssdler"]
 	path = rssdler
 	url = ./rssdler
+[submodule "sshdler"]
+	path = sshdler
+	url = ./sshdler/
